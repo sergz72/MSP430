@@ -1,5 +1,7 @@
 # AD9833 board adapter for [universal measuring tool](https://github.com/sergz72/ARM/tree/master/stm32f401_meter)
 
+![](generator_ad9833.jpg)
+
 **Uses:**
 - [This AD9833 board with MCP41010 and AD8051](https://www.amazon.de/gp/product/B0838T3PN8)
 
